@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\bin\Debug\netcoreapp3.0\MapReduce.exe
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\obj\Debug\netcoreapp3.0\MapReduce.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\obj\Debug\netcoreapp3.0\MapReduce.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\obj\Debug\netcoreapp3.0\MapReduce.AssemblyInfo.cs
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\bin\Debug\netcoreapp3.0\MapReduce.deps.json
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\bin\Debug\netcoreapp3.0\MapReduce.runtimeconfig.json
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\bin\Debug\netcoreapp3.0\MapReduce.runtimeconfig.dev.json
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\bin\Debug\netcoreapp3.0\MapReduce.dll
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\bin\Debug\netcoreapp3.0\MapReduce.pdb
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\obj\Debug\netcoreapp3.0\MapReduce.dll
+C:\Users\pc\Desktop\ESILV A4\S7\Design Pattern\Projet\MapReduce\obj\Debug\netcoreapp3.0\MapReduce.pdb

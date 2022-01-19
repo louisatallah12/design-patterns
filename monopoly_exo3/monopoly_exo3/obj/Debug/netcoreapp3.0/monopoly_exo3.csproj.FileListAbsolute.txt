@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\bin\Debug\netcoreapp3.0\monopoly_exo3.exe
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\bin\Debug\netcoreapp3.0\monopoly_exo3.deps.json
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\bin\Debug\netcoreapp3.0\monopoly_exo3.runtimeconfig.json
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\bin\Debug\netcoreapp3.0\monopoly_exo3.runtimeconfig.dev.json
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\bin\Debug\netcoreapp3.0\monopoly_exo3.dll
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\bin\Debug\netcoreapp3.0\monopoly_exo3.pdb
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\obj\Debug\netcoreapp3.0\monopoly_exo3.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\obj\Debug\netcoreapp3.0\monopoly_exo3.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\obj\Debug\netcoreapp3.0\monopoly_exo3.AssemblyInfo.cs
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\obj\Debug\netcoreapp3.0\monopoly_exo3.dll
+C:\Users\pc\Desktop\monopoly_exo3\monopoly_exo3\obj\Debug\netcoreapp3.0\monopoly_exo3.pdb
